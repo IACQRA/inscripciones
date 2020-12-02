@@ -4,7 +4,7 @@ description: 24 clases de 2 horas. Inicia Abril 2021 - Finaliza Octubre 2021
 
 # OP. OFFICE ESSENTIAL & INTERNET
 
-#### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $3.300 si te anotas en Diciembre, y de $1.650 si te anotas en Enero.
+#### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $3.120 si te anotas en Diciembre, y de $1.560 si te anotas en Enero.
 
 #### [volver](../)
 
@@ -16,8 +16,8 @@ description: 24 clases de 2 horas. Inicia Abril 2021 - Finaliza Octubre 2021
 
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| DIC. | $ 18.300 en 11 pagos de $1.664 |
-| ENE. | $ 16.650 en 10 pagos de $1.665 |
+| DIC. | $ 18.404 en 11 pagos de $1.674 |
+| ENE. | $ 16.702 en 10 pagos de $1.671 |
 {% endtab %}
 {% endtabs %}
 
