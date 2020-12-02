@@ -4,7 +4,7 @@ description: 24 clases de 2 horas. Inicia Abril 2021 - Finaliza Octubre 2021
 
 # OP. OFFICE ESSENTIAL & INTERNET
 
-#### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $3.300 si te anotas en Diciembre, y de $1.650 si te anotas en Enero.
+#### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $2.904 si te anotas en Diciembre, y de $1.452 si te anotas en Enero.
 
 #### [volver](../)
 
@@ -16,8 +16,8 @@ description: 24 clases de 2 horas. Inicia Abril 2021 - Finaliza Octubre 2021
 
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| DIC. | $ 18.300 en 11 pagos de $1.664 |
-| ENE. | $ 16.650 en 10 pagos de $1.665 |
+| DIC. | $ 17.904 en 11 pagos de $1.628 |
+| ENE. | $ 16.452 en 10 pagos de $1.646 |
 {% endtab %}
 {% endtabs %}
 
@@ -39,7 +39,7 @@ Vas a aprender: Windows, Word, Excel, Internet. El curso esta diseñado para que
 
 #### Descarga el temario completo haciendo clic abajo
 
-{% file src="../.gitbook/assets/arm.-y-reparacion-de-pc \(1\).pdf" caption="TEMARIO" %}
+#### [TEMARIO OFFICE ESSENTIAL](https://iacquilmes.gitbook.io/officessential/)
 
 #### [volver](../)
 
